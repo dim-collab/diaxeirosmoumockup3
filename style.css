@@ -1,7 +1,7 @@
 body{
 font-family:Arial, Helvetica, sans-serif;
 margin:0;
-background:#f4f4f4;
+background:#f7f5f2;
 }
 
 .container{
@@ -11,7 +11,7 @@ padding:0 20px;
 }
 
 header{
-background:#111;
+background:#2c2c2c;
 color:white;
 padding:20px;
 }
@@ -27,7 +27,7 @@ text-decoration:underline;
 }
 
 .hero{
-background:#333;
+background:#4a3f35;
 color:white;
 padding:100px 20px;
 text-align:center;
@@ -37,14 +37,14 @@ text-align:center;
 display:inline-block;
 margin-top:20px;
 padding:12px 20px;
-background:#c49a6c;
+background:#b57a44;
 color:white;
 text-decoration:none;
 border-radius:4px;
 }
 
 .cta:hover{
-background:#b68a5c;
+background:#9a6436;
 }
 
 .grid{
@@ -69,7 +69,7 @@ background:white;
 }
 
 footer{
-background:#111;
+background:#2c2c2c;
 color:white;
 text-align:center;
 padding:20px;
