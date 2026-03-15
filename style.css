@@ -1,7 +1,7 @@
 body{
 font-family:Arial, Helvetica, sans-serif;
 margin:0;
-background:#f3f4f6;
+background:#f8f8f8;
 }
 
 .container{
@@ -11,7 +11,7 @@ padding:0 20px;
 }
 
 header{
-background:#1f2937;
+background:#0f172a;
 color:white;
 padding:20px;
 }
@@ -28,7 +28,7 @@ transform: scale(1.05);
 }
 
 .hero{
-background:#374151;
+background:#1e293b;
 color:white;
 padding:100px 20px;
 text-align:center;
@@ -38,14 +38,14 @@ text-align:center;
 display:inline-block;
 margin-top:20px;
 padding:12px 20px;
-background:#2563eb;
+background:#d4af37;
 color:white;
 text-decoration:none;
 border-radius:4px;
 }
 
 .cta:hover{
-background:#1d4ed8;
+background:#b8962e;
 transform: translateY(-2px);
 }
 
@@ -81,7 +81,7 @@ background:white;
 }
 
 footer{
-background:#1f2937;
+background:#0f172a;
 color:white;
 text-align:center;
 padding:20px;
